@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/landingvnv/static/css/main.06ec0ed4.css",
+    "main.js": "/landingvnv/static/js/main.94cd9822.js",
+    "static/js/787.5730ee72.chunk.js": "/landingvnv/static/js/787.5730ee72.chunk.js",
+    "static/media/Main_d.gif": "/landingvnv/static/media/Main_d.e7d93762edce8b9d6f1b.gif",
+    "static/media/Main_p.gif": "/landingvnv/static/media/Main_p.26d1a316b9c54e27e132.gif",
+    "static/media/2.png": "/landingvnv/static/media/2.2758354e3bcb0883c916.png",
+    "static/media/1.png": "/landingvnv/static/media/1.d485fca62a6313f74c48.png",
+    "static/media/GraphikLCG-Thin.ttf": "/landingvnv/static/media/GraphikLCG-Thin.e4da0441de0583042048.ttf",
+    "static/media/3.png": "/landingvnv/static/media/3.f66e300a36473ef80a7b.png",
+    "static/media/Graphik-Thin.ttf": "/landingvnv/static/media/Graphik-Thin.cb8fee6ed6cdd1a3450f.ttf",
+    "static/media/GraphikLCG-Thin.woff": "/landingvnv/static/media/GraphikLCG-Thin.fc26960328c43dd3bd34.woff",
+    "static/media/GraphikLCG-Thin.woff2": "/landingvnv/static/media/GraphikLCG-Thin.1fb21de006aaa091fd82.woff2",
+    "static/media/Graphik-Thin.woff": "/landingvnv/static/media/Graphik-Thin.87cb6e747ab93cf09f54.woff",
+    "static/media/Graphik-Thin.woff2": "/landingvnv/static/media/Graphik-Thin.88a04f46a2b51ff2123a.woff2",
+    "static/media/2.svg": "/landingvnv/static/media/2.6fc0be6a13bff4dd873c4174e9b1f60e.svg",
+    "static/media/3.svg": "/landingvnv/static/media/3.e3b52765375eaa23897e4f68cf102c8c.svg",
+    "static/media/6.svg": "/landingvnv/static/media/6.eef3a43c4eabe19d9cd1f2a9d7b160d2.svg",
+    "static/media/4.svg": "/landingvnv/static/media/4.ab202cf71b317a0ccfc68c9d2e675118.svg",
+    "static/media/5.svg": "/landingvnv/static/media/5.8d6a8240b688e4bc2f2ffa08e87e7693.svg",
+    "static/media/slick.svg": "/landingvnv/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/landingvnv/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/landingvnv/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/New.svg": "/landingvnv/static/media/New.eb09d8a9ceb722ebf8c17f1d68c74e7a.svg",
+    "static/media/slick.woff": "/landingvnv/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/landingvnv/index.html",
+    "main.06ec0ed4.css.map": "/landingvnv/static/css/main.06ec0ed4.css.map",
+    "main.94cd9822.js.map": "/landingvnv/static/js/main.94cd9822.js.map",
+    "787.5730ee72.chunk.js.map": "/landingvnv/static/js/787.5730ee72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ec0ed4.css",
+    "static/js/main.94cd9822.js"
+  ]
+}
