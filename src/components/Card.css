@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Thin'), local('Graphik-LCG-Thin'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff2') format('woff2'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff') format('woff'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+.cards {
+}
+
+div.card {
+  background-color: black;
+  border-color: white;
+  border-radius: 0.6em;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all ease 200ms;
+  font-family: 'Graphik LCG', sans-serif;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 13px 30px -5px hsla(360, 100%, 100%, 0.45);
+  
+}
+.card:hover img{
+  -webkit-animation: rotate-scale-up 0.6s linear ;
+          animation: rotate-scale-up 0.6s linear ;
+}
+
+.card img {
+  width: 20%;
+  object-fit: contain;
+  margin: 10px auto 10px auto;
+  position: center;
+  
+}
+
+
+
+@-webkit-keyframes rotate-scale-up {
+  0% {
+    -webkit-transform: scale(1) rotateZ(0);
+            transform: scale(1) rotateZ(0);
+  }
+  50% {
+    -webkit-transform: scale(1.5) rotateZ(180deg);
+            transform: scale(1.5) rotateZ(180deg);
+  }
+  100% {
+    -webkit-transform: scale(1) rotateZ(360deg);
+            transform: scale(1) rotateZ(360deg);
+  }
+}
+@keyframes rotate-scale-up {
+  0% {
+    -webkit-transform: scale(1) rotateZ(0);
+            transform: scale(1) rotateZ(0);
+  }
+  50% {
+    -webkit-transform: scale(1.5) rotateZ(180deg);
+            transform: scale(1.5) rotateZ(180deg);
+  }
+  100% {
+    -webkit-transform: scale(1) rotateZ(360deg);
+            transform: scale(1) rotateZ(360deg);
+  }
+}
+
+.card h2 {
+  color: white;
+  margin-top: -0.2em;
+  line-height: 1.4;
+  font-size: 1.3em;
+  font-weight: 500;
+  font-family: 'Graphik LCG', sans-serif;
+  transition: all ease-in 100ms;
+}
+
+.card p {
+  color: white;
+  font-family: 'Graphik LCG', sans-serif;
+}
+
+.card h5 {
+  color: white;
+  font-weight: 700;
+  font-size: 0.7em;
+  letter-spacing: 0.04em;
+  margin: 1.4em 0 0 0;
+  text-transform: uppercase;
+}
+
+.card-body {
+  padding: 1.2em;
+}

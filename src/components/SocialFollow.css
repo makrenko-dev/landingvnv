@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Thin'), local('Graphik-LCG-Thin'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff2') format('woff2'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff') format('woff'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  
+.header{
+  text-align: center;
+  font-family: 'Graphik LCG';
+  color: white;
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+  align-items: center;
+}
+
+a.social:hover {
+  transform: translateY(-2px);
+}
+
+a.telegram {
+  color: #25a5e5;
+}
+
+a.facebook {
+  color: #1a77f2;
+}
+
+a.instagram {
+  color: white;
+}
+
+a.tiktok {
+  color: #f32937;
+}
+
+a.linkedin {
+  color: #1a77f2;
+}
+
+.all_as{
+display: flex;
+justify-content: center;
+}

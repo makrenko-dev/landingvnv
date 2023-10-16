@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Thin'), local('Graphik-LCG-Thin'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff2') format('woff2'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff') format('woff'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+.lead-magnet-block{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+}
+.hp{
+font-family: Graphik LCG;
+font-weight: bold;
+color: white;
+width:80%;
+}
+
+.pp{
+font-family: Graphik LCG;
+font-weight: bold;
+color: white;
+width:80%;
+}
+
+.pd{
+font-family: Graphik LCG;
+font-weight: bold;
+font-size: 25px;
+color: white;
+width:80%;
+
+}

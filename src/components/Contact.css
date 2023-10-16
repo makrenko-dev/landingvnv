@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Thin'), local('Graphik-LCG-Thin'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff2') format('woff2'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff') format('woff'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+.all_f{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+}
+
+.form-group {
+  margin: 20px;
+}
+.contact-us-block_d{
+  font-family: Graphik LCG;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  width: 50%;
+  margin-bottom: 120px;
+}
+.contact-us-block_p{
+  font-family: Graphik LCG;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  width: 70%;
+  margin-bottom: 90px;
+}
+.contact-us-block_d .d_con {
+  max-width: 90%;
+}
+.contact-us-block_p .p_con {
+  max-width: 90%;
+}
+
+.h_d {
+  color: #333;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.h_p {
+  color: #333;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+
+.p_d {
+  color: #666;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.p_p {
+  color: #666;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.form-group {
+  margin: 10px 0;
+  text-align: left;
+}
+
+.l_p {
+  display: block;
+  margin-bottom: 5px;
+  color: #333;
+  font-size: 15px;
+}
+.l_d{
+  display: block;
+  margin-bottom: 5px;
+  color: #333;
+  font-size: 20px;
+}
+input[type="text"],
+input[type="email"],
+textarea,
+select {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+

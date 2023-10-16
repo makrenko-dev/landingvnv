@@ -1,0 +1,24 @@
+.accordion {
+	--bs-accordion-btn-color: black;
+	--bs-accordion-active-color: black;
+	--bs-accordion-active-bg: #0dcaf0;
+	--bs-accordion-bg:black;
+	--bs-accordion-color:white;
+	--bs-accordion-btn-icon: url(/Users/mariamakrenko/Documents/projects/landingvnv/src/components/images/icon.png);
+	
+}
+
+.accordion-button.collapsed{
+  background-color: black !important;
+  color: white !important;
+  --bs-accordion-btn-icon: url(/Users/mariamakrenko/Documents/projects/landingvnv/src/components/images/icon.png) !important;
+
+  
+}
+.accordion-button:not(.collapsed){
+	--bs-accordion-active-bg: #0dcaf0 !important;
+}
+.accordion-body{
+	background-color: black !important;
+	color: white !important;
+}

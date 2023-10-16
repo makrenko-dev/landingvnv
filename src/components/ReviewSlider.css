@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Thin'), local('Graphik-LCG-Thin'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff2') format('woff2'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.woff') format('woff'),
+        url('/Users/mariamakrenko/Documents/projects/landingvnv/src/GraphikLCG-Thin/GraphikLCG-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+.review-slider_d {
+  max-width: 70%; /* Задайте бажаний розмір слайдера */
+  margin: 0 auto 120px auto;
+}
+
+.review-slider_p {
+  max-width: 80%; /* Задайте бажаний розмір слайдера */
+  margin: 0 auto 90px auto;
+}
+
+.review {
+  font-family: 'Graphik LCG',sans-serif;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.review h3 {
+  color: white;
+  font-weight: bold;
+  margin: 0;
+}
+
+.review p {
+  color: white;
+  font-weight: bold;
+  margin: 0;
+}
+
+.review .star-rating {
+  margin: 10px 0;
+}
+
+.star {
+  font-size: 24px;
+  color: grey;
+  margin: 0 2px;
+}
+
+.star.filled {
+  color: #ffc107;
+}
+
+.review p {
+  font-size: 14px;
+  margin: 10px 0;
+}

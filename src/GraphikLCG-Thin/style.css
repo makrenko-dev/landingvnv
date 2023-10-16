@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Thin'), local('Graphik-LCG-Thin'),
+        url('GraphikLCG-Thin.woff2') format('woff2'),
+        url('GraphikLCG-Thin.woff') format('woff'),
+        url('GraphikLCG-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
